@@ -17,6 +17,12 @@ class LoginContainer extends React.Component<IProps, IState> {
           Password
           <TextBox />
         </section>
+        <section className={styles.footer}>
+          Background &copy;{" "}
+          <a href="https://www.deviantart.com/hameed/art/Earth-Wallpaper-210596554">
+            Hameed
+          </a>
+        </section>
       </article>
     );
   }
