@@ -10,7 +10,7 @@
     "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
+    "react-scripts": "^3.4.3",
     "sass": "^1.20.1",
     "typescript": "^3.4.5"
   },
@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/krugg3rz/livePoint.git",
+  "author": "krugg3rz <krugg3rz@gmail.com>",
+  "license": "MIT"
 }
